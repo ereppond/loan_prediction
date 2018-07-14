@@ -60,6 +60,8 @@ rf.fit(X_train, y_train)
 rf.score(X_test, y_test)
 
 
+if __name__ == '__main__':
+    return None
 
 
 
